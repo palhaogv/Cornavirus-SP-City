@@ -1,8 +1,8 @@
 # Cornavirus-SP-City
 
-This case is about the beggining of the spread of coronavirus in the city of São Paulo and why it was so hard at that moment to stopped it and why the city (and also it could reflect all of the country) fail to contain the spread of the vírus.
+This case is about the beginning of the spread of coronavirus in the city of São Paulo and why it was so hard at that moment to stopped it and why the city (and also it could reflect all of the countries) fail to contain the spread of the vírus.
 
-First of all, assuming that social isolation was the main way to protect ourselves from not getting infected and to manage how fast the contagius is growing and where it is, it’s very importante to test the population and shows the results as fast as it’s possible.
+First of all, assuming that social isolation was the main way to protect ourselves from not getting infected and to manage how fast the contagious is growing and where it is, it’s very important to test the population and show the results as fast as it’s possible.
 ![Social isolation rate](sir.png)
 
 To measure how good that work was being done it was necessary to cross the contagious rate (how the number of infected people grows compare to the day before) with the social isolate rate, once the are suppose to be correlated.

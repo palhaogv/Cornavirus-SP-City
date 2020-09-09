@@ -6,6 +6,7 @@ First of all, assuming that social isolation was the main way to protect ourselv
 ![Social isolation rate](sir.png)
 
 To mesure how good that work was being done it was necessery to cross the countagios rate (how the number of infected people grows compare to the day before) with the social isolate rate, once the are suppost to be correlated.
+
 ![Cases](cont.png)
 
 Looking at the dataset provided by São Paulo town's hall it's easy to undertand how we are testing poorly. And, after search for the correlation with the growth of cases by day and the social isolation rate, the negative correlation with p < 0.1 was 'Social Isolation Rate after 17 days'. Which means the (1) social isolation helps to stop the spread of coronavirus and (2) citizens of São Paulo only can see these effects after 17 days.
